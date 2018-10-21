@@ -10,7 +10,7 @@ import (
 	"github.com/btcsuite/btcd/btcec"
 	"github.com/btcsuite/btcd/chaincfg"
 	"github.com/btcsuite/btcutil"
-	"github.com/d4l3k/go-electrum/electrum"
+	"github.com/qshuai/go-electrum/electrum"
 )
 
 func main() {
