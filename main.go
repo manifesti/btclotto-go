@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"log"
-	"math/rand"
+	"crypto/rand"
 	"os"
 	"sync"
 	"github.com/btcsuite/btcd/btcec"
