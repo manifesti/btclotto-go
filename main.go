@@ -16,7 +16,7 @@ import (
 func main() {
 
     padded := make([]byte, 32)
-	
+	electrum.DebugMode = false
 	var wg sync.WaitGroup
 
 	file, err := os.Open("electrum.txt")
